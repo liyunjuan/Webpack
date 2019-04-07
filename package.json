@@ -1,0 +1,27 @@
+{
+  "name": "lyj",
+  "version": "1.0.0",
+  "description": "lyj study webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node_modules/.bin/webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyunjuan/Webpack.git"
+  },
+  "keywords": [
+    "lyj"
+  ],
+  "author": "lyj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyunjuan/Webpack/issues"
+  },
+  "homepage": "https://github.com/liyunjuan/Webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
